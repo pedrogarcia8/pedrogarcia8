@@ -1,7 +1,7 @@
 ### EAE!! Eu sou o Pedro Garcia!
 
 
-- 🔭 Estou trabalhando na Braint Tech
+- 🔭 Estou trabalhando na Weme
 - 💻 Desenvolvedor Back-end
 - 🎓 Formado em técnico de informática pelo Colégio Técnico de Limeira da UNICAMP
 - 🎓 Cursando sistemas de informação na USP em São Carlos
