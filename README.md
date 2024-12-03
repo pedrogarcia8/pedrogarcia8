@@ -2,27 +2,22 @@
 
 
 - 🔭 Estou trabalhando na Weme
-- 💻 Desenvolvedor Back-end
+- 💻 Desenvolvedor Fullstack
 - 🎓 Formado em técnico de informática pelo Colégio Técnico de Limeira da UNICAMP
-- 🎓 Cursando sistemas de informação na USP em São Carlos
+- 🎓 Formado no bacharelado de sistemas de informação na USP em São Carlos
 - 📫 Meu email: pedro.jose.garcia8@gmail.com
 
- <div>
-  <a href="https://github.com/pedrogarcia8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogarcia8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogarcia8&layout=compact&langs_count=10&theme=radical&hide=Yacc,Lex,Perl,Verilog,c%2B%2B"/>
-</div>
 <br>
 <div style="display: inline-flex">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Pedro-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pedro-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Pedro-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  <br><br>
 <div style="position: relative"> 
